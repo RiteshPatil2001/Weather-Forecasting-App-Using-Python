@@ -1,0 +1,9 @@
+tkinter
+time
+requests
+mysql.connector
+geopy.geocoders
+timezonefinder
+datetime
+pytz
+PIL
